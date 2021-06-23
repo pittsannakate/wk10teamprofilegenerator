@@ -1,0 +1,26 @@
+{
+  "name": "wk10teamprofilegenerator",
+  "version": "1.0.0",
+  "dependencies": {
+    "inquirer": "^8.1.1",
+    "jest": "^27.0.5"}
+  "description": "Node.js application to produce a software engineering team",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pittsannakate/wk10teamprofilegenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pittsannakate/wk10teamprofilegenerator/issues"
+  },
+  "homepage": "https://github.com/pittsannakate/wk10teamprofilegenerator#readme"
+}
